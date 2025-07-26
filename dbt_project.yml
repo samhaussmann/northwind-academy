@@ -44,7 +44,6 @@ models:
     marts:
       +materialized: table
       +schema: marts
-
     staging:
       erp:
         +schema: stg_erp
